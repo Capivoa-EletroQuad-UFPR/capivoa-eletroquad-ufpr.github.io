@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-# Tá no ar 🚀
+# Capivoa UFPR
 
-Esse site está rodando com **Jekyll** no **GitHub Pages**.
+Site no ar via **GitHub Pages + Jekyll**.
